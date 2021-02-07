@@ -34,6 +34,7 @@ namespace SystemTrayApp
                     {
                         synthesizer.SpeakAsync("no one know who am i, i come from another galaxy");
                         this.Show();
+                        Console.WriteLine("lol");
 
                     }
                 }
